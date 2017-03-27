@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/attachment_icon"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_attachment_black_24dp"
+        android:title="Attachment"/>
+
+    <item
+        android:id="@+id/send_icon"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_send_black_24dp"
+        android:title="Send"/>
+
+    <item
+        android:title="Save Draft"
+        android:id="@+id/draft_text"/>
+
+    <item
+        android:title="Discard"
+        android:id="@+id/discard_text"/>
+
+    <item
+        android:title="Settings"
+        android:id="@+id/settings_text"/>
+
+    <item
+        android:title="Help and feedback"
+        android:id="@+id/help_text"/>
+
+
+
+</menu>

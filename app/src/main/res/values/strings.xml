@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Gmail Layout</string>
+
+    <string-array name="Your_Email">
+        <item>Your EmailID</item>
+        <item>poojanparikh@gmail.com</item>
+        <item>poojan1994</item>
+        <item>poojanp</item>
+        <item>pparikh94</item>
+
+    </string-array>
+
+    <string-array name="mail">
+
+        <item>Receivers EmailID</item>
+        <item>sherlock221b@ymail.com</item>
+
+    </string-array>
+</resources>
